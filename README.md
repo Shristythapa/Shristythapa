@@ -8,7 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/shristy thapa](https://www.linkedin.com/in/shristy-thapa-b7a268225)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shristy thapa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shristy-thapa-b7a268225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shristy thapa" height="30" width="40" /></a>
+  
 <a href="https://instagram.com/shristy_13000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shristy_13000" height="30" width="40" /></a>
 </p>
 
