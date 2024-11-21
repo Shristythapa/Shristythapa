@@ -1,6 +1,7 @@
 # 💫 About Me:
 
-- 🌱 **Currently learning:** Data analytics with SQL<br> - 🔭 **Working on:** Generating insightful dashboard for business <br>
+- 🌱 **Currently learning:** Data analytics with SQL<br>
+- 🔭 **Working on:** Generating insightful dashboard for business <br>
 
 ## 🌐 Socials:
 
