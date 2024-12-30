@@ -1,7 +1,6 @@
 # 💫 About Me:
 
-- 🌱 **Currently learning:** Data analytics with SQL<br>
-- 🔭 **Working on:** Generating insightful dashboard for business <br>
+Computer Science graduate with hands-on experience in Python, SQL, Tableau, and machine learning tools. Proficient in data analytics, including data cleaning, web scraping, and visualization to extract actionable insights. Experienced in applying machine learning techniques to solve real-world problems. 
 
 ## 🌐 Socials:
 
