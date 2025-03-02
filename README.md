@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Computer Science graduate with hands-on experience in Python, SQL, Tableau, and machine learning tools. Proficient in data analytics, including data cleaning, web scraping, and visualization to extract actionable insights. Experienced in applying machine learning techniques to solve real-world problems. 
+A highly motivated Computer Science graduate with hands-on experience in machine learning, specializing in language models and building RAG pipelines. Proficient in Python, SQL, Tableau, and machine learning frameworks, with expertise in data preprocessing, algorithm implementation, and model evaluation to solve real-world problems. A proactive team player with leadership experience and a strong commitment to continuous learning, recognized with merit-based scholarships for academic excellence.
 
 ## 🌐 Socials:
 
