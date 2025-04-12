@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-A highly motivated Computer Science graduate with hands-on experience in machine learning, specializing in language models and building RAG pipelines. Proficient in Python, SQL, Tableau, and machine learning frameworks, with expertise in data preprocessing, algorithm implementation, and model evaluation to solve real-world problems. A proactive team player with leadership experience and a strong commitment to continuous learning, recognized with merit-based scholarships for academic excellence.
+A highly motivated Computer Science graduate with hands-on experience in machine learning. Proficient in Python, SQL, Tableau, and machine learning frameworks, with expertise in data preprocessing, algorithm implementation, and model evaluation to solve real-world problems. A proactive team player with leadership experience and a strong commitment to continuous learning.
 
 ## 🌐 Socials:
 
